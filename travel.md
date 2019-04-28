@@ -41,6 +41,7 @@
 - power adapter
 
 ### toiletries
+- tissues
 - toothbrush
 - toothpaste
 - floss
