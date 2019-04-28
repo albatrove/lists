@@ -1,0 +1,72 @@
+### documents
+- wallet
+- passport
+- driving documents
+- border documents
+- transit passes
+- keys
+
+### primary clothes
+- shirts
+- pants
+- socks
+- underwear
+- sweaters
+
+### auxiliary clothes
+- warm jacket
+- rain jacket
+- swimwear
+- secondary shoes
+- slippers
+- dress clothes
+
+### accessories
+- hat
+- scarf
+- gloves
+- glasses
+- contacts
+- sunglasses
+
+### tech
+- phone
+- laptop
+- camera
+- memory cards
+- battery
+- chargers
+- cables
+- headphones
+- power adapter
+
+### toiletries
+- toothbrush
+- toothpaste
+- floss
+- sunscreen
+- deodorant
+- shower products
+- lip balm
+- face wash
+- mouthwash 
+- moisturiser
+- razor
+- hygienic products
+
+### medication
+- prescriptions
+- calcium tablets
+- painkillers
+
+### misc
+- cash
+- stationery
+- snacks
+- water bottle
+- sim cards
+- donuts
+
+### mimi
+- mimi
+- alba
