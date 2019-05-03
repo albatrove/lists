@@ -16,6 +16,7 @@
 ### auxiliary clothes
 - warm jacket
 - rain jacket
+- pajama pants
 - swimwear
 - secondary shoes
 - slippers
@@ -61,7 +62,7 @@
 - painkillers
 
 ### misc
-- cash
+- local currency
 - stationery
 - snacks
 - water bottle
@@ -71,3 +72,4 @@
 ### mimi
 - mimi
 - alba
+- water house plants
