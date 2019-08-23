@@ -54,6 +54,7 @@
 - mouthwash 
 - moisturiser
 - razor
+- nail clipper
 - hygienic products
 
 ### medication
