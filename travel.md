@@ -69,6 +69,7 @@
 - water bottle
 - sim cards
 - donuts
+- gifts
 
 ### mimi
 - mimi
